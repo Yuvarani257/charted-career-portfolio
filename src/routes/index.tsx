@@ -499,7 +499,7 @@ function Portfolio() {
             y<span>.</span>
           </span>
           <span>
-            Yuva Rani<span className="brand-period">.</span>
+            Yuva Rani
           </span>
         </a>
         <nav className={menu ? "main-nav is-open" : "main-nav"} aria-label="Main navigation">
@@ -563,7 +563,7 @@ function Portfolio() {
                 Bevara
                 <br />
                 <span>
-                  Yuva Rani<span className="name-dot">.</span>
+                  Yuva Rani
                 </span>
               </h1>
               <div className="animated-role">
@@ -644,7 +644,7 @@ function Portfolio() {
           <SectionHeading
             number="01"
             label="THE PERSON BEHIND THE PATTERNS"
-            title="Beyond the data."
+            title="Beyond the data"
           />
           <div className="about-grid">
             <div className="about-copy">
@@ -728,7 +728,7 @@ function Portfolio() {
             <SectionHeading
               number="02"
               label="TOOLS THAT POWER MY CURIOSITY"
-              title="My technical arsenal."
+              title="My technical arsenal"
               description="The technologies and techniques I use to explore, analyze, and communicate data."
             />
             <div className="skills-grid">
@@ -759,7 +759,7 @@ function Portfolio() {
           <SectionHeading
             number="03"
             label="LEARNING IN THE REAL WORLD"
-            title="Professional experience."
+            title="Professional experience"
           />
           <div className="experience-layout">
             <div className="experience-aside">
@@ -817,7 +817,7 @@ function Portfolio() {
               <SectionHeading
                 number="04"
                 label="SELECTED WORK"
-                title="Turning ideas into impact."
+                title="Turning ideas into impact"
                 description="Four projects. Different challenges. One data-driven approach."
               />
               <a className="text-link" href={github} target="_blank" rel="noreferrer">
@@ -865,7 +865,7 @@ function Portfolio() {
             <SectionHeading
               number="05"
               label="EXPLORE. FILTER. DISCOVER."
-              title="Data in action."
+              title="Data in action"
               description="A little glimpse into how I see data: connected, visual, and actionable."
             />
             <span className="demo-badge">
@@ -949,7 +949,7 @@ function Portfolio() {
             <SectionHeading
               number="06"
               label="ALWAYS A STUDENT"
-              title="Certifications & continuous learning."
+              title="Certifications & continuous learning"
               description="Building a stronger foundation, one learning milestone at a time."
             />
             <div className="certificates-grid">
@@ -976,7 +976,7 @@ function Portfolio() {
           <SectionHeading
             number="07"
             label="NOTES FROM MY LEARNING JOURNEY"
-            title="Insights, ideas & learning."
+            title="Insights, ideas & learning"
             description="Exploring the questions, tools, and techniques behind better analysis."
           />
           <div className="blog-filters" aria-label="Article categories">
@@ -1095,7 +1095,7 @@ function Portfolio() {
           <SectionHeading
             number="08"
             label="GOOD CONVERSATIONS START HERE"
-            title="Let’s connect."
+            title="Let’s connect"
           />
           <div className="contact-grid">
             <div className="contact-copy">
@@ -1203,7 +1203,7 @@ function Portfolio() {
               y<span>.</span>
             </span>
             <span>
-              Bevara Yuva Rani<span className="brand-period">.</span>
+              Bevara Yuva Rani
             </span>
           </a>
           <p>

@@ -154,9 +154,6 @@
 .brand-mark span {
   display: inline;
 }
-.brand-period {
-  color: var(--primary);
-}
 .main-nav {
   display: flex;
   gap: 23px;
@@ -273,9 +270,6 @@
 }
 .hero h1 > span {
   color: var(--primary);
-}
-.name-dot {
-  color: var(--foreground);
 }
 .animated-role {
   font-family: var(--font-mono);
